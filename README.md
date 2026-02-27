@@ -4,6 +4,25 @@
  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[YOUR-DEFAULT-IMAGE](https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)">
 </picture>
 
+## About me
+Hi, This is Satish. You might recognize me as Microsoft Copilot GitHub's Scorpian.
+<!-- To Do: add more detiala about me later -->
+
+<details>
+<summary>My Top Things to Rank</summary>
+ 
+| Rank | THING-TO-RANK   |
+|-----:|-----------------|
+|     1|  AI             |
+|     2|  Data Centers   |
+|     3|  Copilot Github |
+
+</details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+— Mona the Octocat
+
 <!--
 **satishchundru-hub/satishchundru-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
